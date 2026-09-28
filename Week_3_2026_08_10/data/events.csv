@@ -1,0 +1,9 @@
+event_id,release_date,anchor_date,event_type,contaminated,note
+r1,2025-01-20,2025-01-27,primary,False,HK closed Lunar New Year; FOMC 01-28
+k2,2025-07-11,2025-07-11,null_test,False,strong tape into event; a null may be absorption not indifference
+v4_preview,2026-04-23,2026-04-24,cost_shock,False,VERIFY release date: Apr 23 vs Apr 24
+v4_pricecut,2026-06-01,2026-06-01,control,True,NVDA earnings 2026-05-20 sits in T-10
+glm52,2026-06-15,2026-06-15,flagged,True,"FOMC 06-16/17; export controls 06-12. Jointly caused, not clean"
+k3,2026-07-16,2026-07-17,primary,True,Korea closed on anchor; GOOGL delay 07-16; tape already off highs
+k3_weights,2026-07-27,2026-07-27,flagged,True,CXMT listing same day
+v4_flash,2026-07-31,2026-07-31,control,True,FOMC 07-29
